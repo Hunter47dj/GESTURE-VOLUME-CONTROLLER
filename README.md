@@ -1,4 +1,4 @@
-<!-- MADE BY DHARMENDRA CHOUDHARY -->
+# <-- MADE BY DHARMENDRA CHOUDHARY -->
 
 # Gesture Volume Control
 
@@ -6,11 +6,11 @@ Gesture Volume Control is the about changing the volume according to the movemen
 
 # Libraries used
 
-opencv-contrib-python 4.7.0.72
+1. opencv-contrib-python 4.7.0.72
 
-mediapipe 0.9.1.0
+2. mediapipe 0.9.1.0
 
-pycaw 20220416
+3. pycaw 20220416
 
 # Module 1 - HandTrackingModule
 

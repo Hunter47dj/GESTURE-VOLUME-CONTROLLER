@@ -1,12 +1,13 @@
                                         <-- MADE BY DHARMENDRA CHOUDHARY -->
-
- ![image](https://user-images.githubusercontent.com/107131075/231946361-15b1f705-94e3-4ad9-a723-2e43d582c34d.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/107131075/231947182-ea5a0d81-2692-469b-94b5-3c895e037d09.png"  width="500" height="400" />
+</p>
 
 # Gesture Volume Control
 
 Gesture Volume Control is the about changing the volume according to the movement of fingers. The volume changes as the distance between the index finger and thumb varies.
 
-# Libraries used
+## Libraries used
 
 1. opencv-contrib-python 4.7.0.72
 
